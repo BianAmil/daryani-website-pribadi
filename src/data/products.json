@@ -1,0 +1,221 @@
+[
+  {
+    "id": "hni-mhs",
+    "name": "Minyak Herba Sinergi (MHS) HNI HPAI",
+    "category": "herbal",
+    "categoryName": "Herbal & Madu",
+    "price": 45000,
+    "status": "ready",
+    "statusLabel": "Ready Stock",
+    "thumbnail": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Minyak herbal serbaguna asli HNI HPAI yang mengandung ekstrak herba pilihan alami seperti VCO, sambiloto, cengkih, dan brotowali. Bermanfaat mengatasi pegal linu, memar, luka bakar ringan, gigitan serangga, serta aman untuk urut keluarga.",
+    "dimension": "Botol 100 ml (Netto: 100 ml)",
+    "safetyBadge": "🌿 100% Herbal Alami HNI Resmi & BPOM Terdaftar",
+    "variants": ["100 ml Standar"],
+    "tags": ["HNI", "Best Seller", "Minyak Herbal", "P3K"]
+  },
+  {
+    "id": "hni-madu-habbat",
+    "name": "Madu Habbat HNI Murni",
+    "category": "herbal",
+    "categoryName": "Herbal & Madu",
+    "price": 130000,
+    "status": "ready",
+    "statusLabel": "Ready Stock",
+    "thumbnail": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1471943311424-646960669fbc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Madu murni alami yang dipadukan dengan ekstrak habbatussauda (jintan hitam) murni. Membantu menjaga stamina tubuh, meningkatkan daya tahan imun, mengatasi radang tenggorokan, dan mempercepat pemulihan stamina.",
+    "dimension": "Netto: 250 gram",
+    "safetyBadge": "🍯 Madu Murni Berkualitas Tinggi & Halal MUI",
+    "variants": ["250 gram", "500 gram"],
+    "tags": ["Madu Habbat", "Imunitas", "HNI HPAI"]
+  },
+  {
+    "id": "hni-extra-food",
+    "name": "Extra Food HNI HPAI (Sari Kurma & 23 Sayur Buah)",
+    "category": "herbal",
+    "categoryName": "Herbal & Madu",
+    "price": 80000,
+    "status": "ready",
+    "statusLabel": "Ready Stock",
+    "thumbnail": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Suplemen herbal sinergi dari 23 jenis sari buah dan sayuran alami serta sari kurma murni. Sangat disukai anak-anak dan orang dewasa untuk menambah nafsu makan, nutrisi tumbuh kembang, dan mengatasi demam/flu.",
+    "dimension": "Botol Jar 250 gram",
+    "safetyBadge": "🍎 Kaya Serat & Vitamin Alami Tanpa Pengawet",
+    "variants": ["Jar 250 gram"],
+    "tags": ["Nutrisi Anak", "Sari Kurma", "HNI"]
+  },
+  {
+    "id": "hni-kopi-sevel",
+    "name": "Kopi 7 Elemen (Sevel) HNI HPAI",
+    "category": "herbal",
+    "categoryName": "Herbal & Madu",
+    "price": 110000,
+    "status": "ready",
+    "statusLabel": "Ready Stock",
+    "thumbnail": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Kopi herbal istimewa dari 7 elemen tanaman alami: biji kopi, gula aren, kulit manggis, jahe, daun sendok, meniran, dan habbatussauda. Hangat di lambung, tidak bikin maag kambuh, dan memberi tenaga seharian.",
+    "dimension": "Isi: 20 Sachet @ 23 gram",
+    "safetyBadge": "☕ Ramah Lambung & 100% Gula Aren Alami",
+    "variants": ["Pouch 20 Sachet"],
+    "tags": ["Kopi Sevel", "Energi", "Herbal HNI"]
+  },
+  {
+    "id": "grb-kendi-air",
+    "name": "Kendi Air Tanah Liat Tradisional Jawa",
+    "category": "gerabah",
+    "categoryName": "Gerabah Dapur",
+    "price": 45000,
+    "status": "ready",
+    "statusLabel": "Ready Stock",
+    "thumbnail": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Kendi air berbahan tanah liat alami pilihan yang dibakar dengan teknik tradisional pengasapan halus. Membuat air minum terasa sejuk alami seperti mata air pegunungan tanpa butuh kulkas. Menetralkan pH air secara alami.",
+    "dimension": "Tinggi: 26 cm | Diameter: 18 cm | Kapasitas: ~2 Liter",
+    "safetyBadge": "🛡️ Packing Kayu / Extra Bubble Wrap Aman Sampai Rumah",
+    "variants": ["Kapasitas 1.5 Liter", "Kapasitas 2 Liter"],
+    "tags": ["Gerabah", "Air Dingin Alami", "Dapur Tradisional"]
+  },
+  {
+    "id": "grb-cobek-tanah",
+    "name": "Cobek & Ulekan Tanah Liat Halus Bakar",
+    "category": "gerabah",
+    "categoryName": "Gerabah Dapur",
+    "price": 35000,
+    "status": "ready",
+    "statusLabel": "Ready Stock",
+    "thumbnail": "https://images.unsplash.com/photo-1590736969955-71cc94801759?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590736969955-71cc94801759?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Cobek tradisional berbahan tanah liat merah matang yang halus dan tebal. Sangat cocok untuk mengulek sambal terasi, sambal korek, rujak, atau lalapan. Sambal terasa lebih gurih dan tidak berbau bahan kimia.",
+    "dimension": "Diameter: 22 cm | Tebal: 2.5 cm (Termasuk Ulekan Gerabah)",
+    "safetyBadge": "🛡️ Packing Khusus Berlapis Garansi Pecah Tukar Baru",
+    "variants": ["Diameter 20 cm", "Diameter 24 cm"],
+    "tags": ["Cobek", "Sambal Enak", "Tanah Liat"]
+  },
+  {
+    "id": "grb-wajan-tanah",
+    "name": "Wajan / Kuali Penggorengan Sangrai Gerabah",
+    "category": "gerabah",
+    "categoryName": "Gerabah Dapur",
+    "price": 55000,
+    "status": "preorder",
+    "statusLabel": "Pre-Order",
+    "thumbnail": "https://images.unsplash.com/photo-1584990347449-3079b7365c71?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584990347449-3079b7365c71?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Wajan cekung tradisional berbahan tanah liat murni berkualitas tahan api. Sempurna untuk sangrai biji kopi, kacang tanah, kerupuk pasir (tanpa minyak), atau merebus sayur santan lodeh dengan aroma tanah liat otentik.",
+    "dimension": "Diameter: 28 cm | Kedalaman: 10 cm",
+    "safetyBadge": "🛡️ Tahan Panas & Bebas Lapisan Kimia Sintetis",
+    "variants": ["Diameter 26 cm", "Diameter 30 cm"],
+    "tags": ["Wajan Tanah Liat", "Sangrai Kopi", "Sehat Alami"]
+  },
+  {
+    "id": "grb-poci-set",
+    "name": "Set Poci Teh Gerabah Tanah Liat + 3 Cangkir",
+    "category": "gerabah",
+    "categoryName": "Gerabah Dapur",
+    "price": 75000,
+    "status": "ready",
+    "statusLabel": "Ready Stock",
+    "thumbnail": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Set poci teh khas tradisi poci Jawa. Menghasilkan seduhan teh wasgitel (wangi, sepet, legi, kenthel) dengan sensasi aroma tanah liat yang khas. Dilengkapi 1 poci bertutup dan 3 cangkir gerabah serasi.",
+    "dimension": "Poci Volume 600 ml + 3 Cangkir Mini Gerabah",
+    "safetyBadge": "🛡️ Packing Kayu Ekstra Tebal Aman Pengiriman Luar Kota",
+    "variants": ["Set 1 Poci + 3 Cangkir"],
+    "tags": ["Teh Poci", "Tradisional", "Khas Jawa"]
+  },
+  {
+    "id": "kbn-bibit-bawor",
+    "name": "Bibit Pohon Durian Bawor Banyumas Okulasi Unggul",
+    "category": "kebun",
+    "categoryName": "Kebun & Bibit",
+    "price": 85000,
+    "status": "ready",
+    "statusLabel": "Ready Stock",
+    "thumbnail": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Bibit durian Bawor asli khas Banyumas hasil perbanyakan okulasi batang ganda. Batang kokoh, akar kuat, adaptif di dataran rendah, serta lebih cepat berbuah (3-4 tahun). Daging buah tebal, oranye, manis legit legit beraroma harum.",
+    "dimension": "Tinggi Bibit: 70 - 90 cm (Polybag Siap Tanam)",
+    "safetyBadge": "🌱 Garansi Bibit Hidup & Segar Tiba di Lokasi",
+    "variants": ["Tinggi 70 cm", "Tinggi 100 cm (Kaki 3)"],
+    "tags": ["Durian Bawor", "Khas Banyumas", "Bibit Buah"]
+  },
+  {
+    "id": "kbn-pupuk-organik",
+    "name": "Pupuk Kompos Organik Fermentasi Super Subur",
+    "category": "kebun",
+    "categoryName": "Kebun & Bibit",
+    "price": 25000,
+    "status": "ready",
+    "statusLabel": "Ready Stock",
+    "thumbnail": "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Pupuk organik kaya unsur hara makro dan mikro alami dari kotoran ternak dan daun terfermentasi sempurna menggunakan probiotik. Tidak berbau menyengat, menggemburkan tanah kebun, dan merangsang pembungaan buah.",
+    "dimension": "Kemasan Karung Sak 5 Kg",
+    "safetyBadge": "🌱 100% Organik Murni Bebas Kimia Berbahaya",
+    "variants": ["Karung 5 Kg", "Karung 10 Kg"],
+    "tags": ["Pupuk Organik", "Subur Alami", "Kebun Rumahan"]
+  },
+  {
+    "id": "kbn-bibit-jeruk-purut",
+    "name": "Bibit Tanaman Jeruk Purut Daun Wangi Rimbun",
+    "category": "kebun",
+    "categoryName": "Kebun & Bibit",
+    "price": 35000,
+    "status": "ready",
+    "statusLabel": "Ready Stock",
+    "thumbnail": "https://images.unsplash.com/photo-1582293041079-7814c2f12063?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1582293041079-7814c2f12063?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Bibit jeruk purut siap petik daun untuk bumbu dapur tradisional (pecel, soto, gulai, rendang). Tanaman sudah berakar kuat, rimbun, dan sangat mudah dirawat di pot teras rumah atau pekarangan.",
+    "dimension": "Tinggi: 45 - 60 cm (Polybag 25 cm)",
+    "safetyBadge": "🌱 Garansi Bibit Sehat Berakar Kuat",
+    "variants": ["Polybag Siap Pajang"],
+    "tags": ["Jeruk Purut", "Bumbu Dapur", "Tanaman Pot"]
+  },
+  {
+    "id": "kbn-bibit-sirih-merah",
+    "name": "Bibit Tanaman Herbal Sirih Merah Khasiat",
+    "category": "kebun",
+    "categoryName": "Kebun & Bibit",
+    "price": 30000,
+    "status": "ready",
+    "statusLabel": "Ready Stock",
+    "thumbnail": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Tanaman obat keluarga (TOGA) sirih merah dengan corak daun mengkilap eksotis. Daunnya kaya senyawa antiseptik dan flavonoid untuk obat herbal diabetes, pembersih luka, dan kesehatan mulut.",
+    "dimension": "Polybag 20 cm, sulur 3-4 helai daun aktif",
+    "safetyBadge": "🌱 Tanaman Herbal Asli Sehat Segar",
+    "variants": ["Polybag Sedang"],
+    "tags": ["Sirih Merah", "TOGA", "Herbal Kebun"]
+  }
+]

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="24" fill="#2D5A27"/>
+  <circle cx="50" cy="50" r="38" fill="#3A7232"/>
+  <!-- Leaf and Pottery Motif -->
+  <path d="M50 22 C35 34 35 60 50 78 C65 60 65 34 50 22 Z" fill="#FAF8F5"/>
+  <path d="M50 30 C58 45 56 60 50 72 C44 60 42 45 50 30 Z" fill="#C86D51"/>
+  <circle cx="50" cy="50" r="6" fill="#FAF8F5"/>
+</svg>
